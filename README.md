@@ -34,7 +34,7 @@
 ## EDUCATIONAL PURPOSES ONLY
 
 ## Clippers
-- Crypto-Clipper
+- Crypto-Clipper 
 - Clipper
 - Crypto-Clipper
 - Clipper 
