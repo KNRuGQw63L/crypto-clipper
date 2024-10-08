@@ -1,5 +1,5 @@
 # Crypto-Clipper  
-![bitcoin-banner-weltweites-netzkonzept-der-goldenen-digitalen-währung-cryptocurrency-futuristischen-geldtechnologie-vektorfahne-206736553](https://user-images.githubusercontent.com/107504561/223456781-4aa6af66-9aed-41fb-b98e-be7f87c170b0.jpg)
+![bitcoin-banner-weltweites-netzkonzept-der-goldenen-digitalen-währung-cryptocurrency-futuristischen-geldtechnologie-vektorfahne-206736553](https://user-images.githubusercontent.com/107504561/223456781-4aa6af66-9aed-41fb-b98e-be7f87c170b0.jpg) 
 
 <div align="center">  
  
