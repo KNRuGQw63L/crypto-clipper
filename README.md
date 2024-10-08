@@ -32,7 +32,7 @@
 **- MORE FEATURES COMMING SOON!**  
  
 ## EDUCATIONAL PURPOSES ONLY
- 
+  
 ## Clippers
 - Crypto-Clipper 
 - Clipper
