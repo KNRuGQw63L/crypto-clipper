@@ -23,7 +23,7 @@
 ## features
 **- Runs on startup**  
    
-**- Unkillable procces** 
+**- Unkillable procces**  
 
 **- WORKING 2023**   
 
