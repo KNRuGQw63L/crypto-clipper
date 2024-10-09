@@ -36,7 +36,7 @@
 ## Clippers
 - Crypto-Clipper  
 - Clipper
-- Crypto-Clipper 
+- Crypto-Clipper  
 - Clipper   
 - bitcoin clipper
 - monero clipper 
