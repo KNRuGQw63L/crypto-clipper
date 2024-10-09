@@ -21,7 +21,7 @@
 5. Enjoy!
    
 ## features
-**- Runs on startup** 
+**- Runs on startup**  
    
 **- Unkillable procces** 
 
